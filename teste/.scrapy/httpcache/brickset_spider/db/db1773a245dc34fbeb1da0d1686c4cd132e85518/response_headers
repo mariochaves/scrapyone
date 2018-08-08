@@ -1,0 +1,25 @@
+Date: Fri, 27 Jul 2018 01:36:40 GMT
+Content-Type: text/html; charset=utf-8
+Server: nginx
+Status: 302 Found
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Location: https://www.gympass.com/
+Cache-Control: no-cache
+Set-Cookie: access_info=%7B%22access_token%22%3A%227850db28919f281d687a8f37412b148fd608c1f2143d82a759d9727bbed48086%22%2C%22token_type%22%3A%22bearer%22%2C%22expires_in%22%3A7199%2C%22refresh_token%22%3A%228399dfeeff554a1ca8074c7426f5d1a07cbbbd32c021b4b476d0eef1af642b6a%22%2C%22scope%22%3A%22read%22%2C%22created_at%22%3A1532655399%2C%22user_slug%22%3A%22mario-augusto-chaves%22%7D; path=/; secure
+Set-Cookie: x_session=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozMDYxMjc2LCJ1c2VyX3NsdWciOiJtYXJpby1hdWd1c3RvLWNoYXZlcyJ9._OwmFpEsrdnNqLyZxBFWKaCqZ9fe9VXtHdwcTmBi-2c; path=/; secure
+Set-Cookie: remember_person_token=BAhbCFsGaQMcti5JIhkzMkdzd2VkMUZQVm9OckFrV1pzNAY6BkVUSSIWMTUzMjY1NTM5OS45Mzk4OTQGOwBG--a9c10a3fd56f60bf72456da63fc2abbd83501f6f; domain=.gympass.com; path=/; expires=Fri, 03 Aug 2018 01:36:39 -0000; secure; HttpOnly
+Set-Cookie: email=a0ppKzZSeDFKeFpxYmd1S0FRVGd6YVAzbVRkYVZBRTBpQlF4Z2l4Z1VZRT0tLVhob0FvOFQwdFRYVWJrY2tPeFhBQ0E9PQ%3D%3D--6155f4134f8c28b1bf755393d32a07d8e701f8fa; domain=.gympass.com; path=/; expires=Sat, 27 Jul 2019 01:36:39 -0000; secure
+Set-Cookie: has_logged_in=1; domain=.gympass.com; path=/; expires=Sat, 27 Jul 2019 01:36:39 -0000; secure
+Set-Cookie: city=Recife; domain=.gympass.com; path=/; expires=Sat, 27 Jul 2019 01:36:39 -0000; secure
+Set-Cookie: country=Brasil; domain=.gympass.com; path=/; expires=Sat, 27 Jul 2019 01:36:39 -0000; secure
+Set-Cookie: state=PE; domain=.gympass.com; path=/; expires=Sat, 27 Jul 2019 01:36:39 -0000; secure
+Set-Cookie: did=qv-L4FBqhGtUjJr_-SQCviJtFgUFeS5lpX7KLuFP_58; domain=.gympass.com; path=/; expires=Sat, 27 Jul 2019 01:36:39 -0000; secure
+Set-Cookie: viewer_id=2CHj8YZg-tYTkvCYAQJH1p14RqKgn3vKSaIDoEn7FLo; domain=.gympass.com; path=/; expires=Sat, 27 Jul 2019 01:36:39 -0000; secure
+Set-Cookie: cg=1; domain=.gympass.com; path=/; expires=Fri, 27 Jul 2018 09:36:40 -0000; secure
+Set-Cookie: booking_enable=false; domain=.gympass.com; path=/; secure
+Set-Cookie: _GPBR_session=Rkl0cjBPbzBiNHpGb2ZTTnpyVnBlSnVUMURPVmFlamsvVEpMR0d0YkpjWXRFcjZnUXQwQ2pjbHg5eDdvWDNUOVpZMldxMVhBQkxjVCtoR2lNZnZielc4MFRYRkljRU9BeXFNNGVDdFpySTVObnI3cDFYNE5IUVFzRkFuZDBVeFNzaUJ6QndIWWt6SXNmdXFtQ0ovSmZyZ0o5TnFHWXBHMWtzQUdYaXZxMzkyUWJuMUQzNzdrOGFvVjQxSDhDNzdSbXlqL2VhZ1JOVnlEYy9YMy8vNHk4dGRXS2FLQUY5RnJsU0Y3LzlJOTVFK3BJL1I5bHdzWEFCWDM5c0Z0NHdIN1NkbFhIMWxLT3FUbDdWL295RVZoblMzenJSR2licDRwK1pOSlg4Q3d3aGRKY1Nxd2Z4L01QbU84am9QSjloRUttcDQvU0xVRnBQcHY5OFNkVE1WSEtJdm9ackJnUzJwNkc1T0tEZFY2VjYzYWRvcHRSQWVIeTJYRXFwNnMzdDVPYUFzUWg2NktTMFdWam0wUER0TzJiN1RPVEVOTm5VUzVhL3pXRjFmbkovUmRpZGNrQ0ZqanNweTVjdHVEUkRlSGxSMlhOelR1L2c3Y3NndE1DNmcwb3RkTWhpN2E4Z1pMc3JGc1FvVzBnV0o4L2hmd1ZoaWEwMytPdVhkZ3h5ZDRyTjdCODMwOCs0dkRJNUM0bW9uZy9FL2pCdldBTGE3TGtReU9DN2wwaUtCZ0pJTmZNbncvYjZMWEFEOTBUSnhCV2dvNXFCUDU4S3U2VEdYTjhIOENybmFUdUViSWxyZmZEODFTems3cmpUMDFMamdtV1d1ZFQrUXBnSjVqdzVHemZFNG1lMzZqQnlHUXJFM2U4NzFFNGRJUm9lYUNOMWxNU1lzV25UUmRib2hEc1JUYng3ZFljMnAyWHVVSGl3dUp2d1lhelNHRmNxOHBIeDd4eGNBRTZNZVQ1aEMyY2szcm9jdk95S1pDNWE4RzRsWGlVc1NaRmhSYVllUy9zSzJhajhJTzN0QVdySnN2QlZXODhRMHlvc2g3Zi9TU001bTVlQThaOVFCSDJLZWFtRWFOWG1jTkViUjJma2t2bFpLaS0tLzBoRUFoZnBhM09mMjBVRGE2Y1NpZz09--f0209d82e61236f0abede5395cb40af2a2fcd1a8; domain=.gympass.com; path=/; secure; HttpOnly
+X-Request-Id: cce59472-23ec-40dc-937a-14602efa6d79
+X-Runtime: 0.510619
+Strict-Transport-Security: max-age=31536000

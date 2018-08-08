@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acdbd9c7-de39-4ef3-8f2a-7b34c46cbdc0" name="Default Changelist" comment="cfg">
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/b6/b6bd7a5eefb8033c66621c74bf19e389b1dc8f5e/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/b6/b6bd7a5eefb8033c66621c74bf19e389b1dc8f5e/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/b6/b6bd7a5eefb8033c66621c74bf19e389b1dc8f5e/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/b6/b6bd7a5eefb8033c66621c74bf19e389b1dc8f5e/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/b6/b6bd7a5eefb8033c66621c74bf19e389b1dc8f5e/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/b6/b6bd7a5eefb8033c66621c74bf19e389b1dc8f5e/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/db/db1773a245dc34fbeb1da0d1686c4cd132e85518/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/db/db1773a245dc34fbeb1da0d1686c4cd132e85518/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/db/db1773a245dc34fbeb1da0d1686c4cd132e85518/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/db/db1773a245dc34fbeb1da0d1686c4cd132e85518/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/db/db1773a245dc34fbeb1da0d1686c4cd132e85518/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/db/db1773a245dc34fbeb1da0d1686c4cd132e85518/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/f2/f26e4b2007c27b5f79c540548552e2892deea9d0/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/f2/f26e4b2007c27b5f79c540548552e2892deea9d0/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/f2/f26e4b2007c27b5f79c540548552e2892deea9d0/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/f2/f26e4b2007c27b5f79c540548552e2892deea9d0/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/f2/f26e4b2007c27b5f79c540548552e2892deea9d0/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/brickset_spider/f2/f26e4b2007c27b5f79c540548552e2892deea9d0/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/2c/2ce6ebf334b175df7b307e607a5e549580d1f89a/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/2c/2ce6ebf334b175df7b307e607a5e549580d1f89a/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/2c/2ce6ebf334b175df7b307e607a5e549580d1f89a/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/2c/2ce6ebf334b175df7b307e607a5e549580d1f89a/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/2c/2ce6ebf334b175df7b307e607a5e549580d1f89a/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/2c/2ce6ebf334b175df7b307e607a5e549580d1f89a/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/62/628735d3a16b67b1dd5fbfbd10a15f2c28362bbd/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/62/628735d3a16b67b1dd5fbfbd10a15f2c28362bbd/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/62/628735d3a16b67b1dd5fbfbd10a15f2c28362bbd/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/62/628735d3a16b67b1dd5fbfbd10a15f2c28362bbd/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/62/628735d3a16b67b1dd5fbfbd10a15f2c28362bbd/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/example/62/628735d3a16b67b1dd5fbfbd10a15f2c28362bbd/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/16/1630906903fcd43146ead05d46e7221d6a186370/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/16/1630906903fcd43146ead05d46e7221d6a186370/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/16/1630906903fcd43146ead05d46e7221d6a186370/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/16/1630906903fcd43146ead05d46e7221d6a186370/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/16/1630906903fcd43146ead05d46e7221d6a186370/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/16/1630906903fcd43146ead05d46e7221d6a186370/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/29/29ac78be8d6f1e78e6b9aa293c0a4e4aa76ced23/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/29/29ac78be8d6f1e78e6b9aa293c0a4e4aa76ced23/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/29/29ac78be8d6f1e78e6b9aa293c0a4e4aa76ced23/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/29/29ac78be8d6f1e78e6b9aa293c0a4e4aa76ced23/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/29/29ac78be8d6f1e78e6b9aa293c0a4e4aa76ced23/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/29/29ac78be8d6f1e78e6b9aa293c0a4e4aa76ced23/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/78/789ec816a0d831baf5406d82df8bde3eed07362e/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/8e/8eaf6d4627c92d3373cb27fb797ce78725557a9b/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/8e/8eaf6d4627c92d3373cb27fb797ce78725557a9b/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/8e/8eaf6d4627c92d3373cb27fb797ce78725557a9b/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/8e/8eaf6d4627c92d3373cb27fb797ce78725557a9b/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/8e/8eaf6d4627c92d3373cb27fb797ce78725557a9b/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/8e/8eaf6d4627c92d3373cb27fb797ce78725557a9b/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/93/932e36e62cc0dad94b9191a30e6ea548b8bd000b/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/bf/bf58ba3fb80761fbcabe3b7e1a060bb45cd8ed8a/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/bf/bf58ba3fb80761fbcabe3b7e1a060bb45cd8ed8a/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/bf/bf58ba3fb80761fbcabe3b7e1a060bb45cd8ed8a/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/bf/bf58ba3fb80761fbcabe3b7e1a060bb45cd8ed8a/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/bf/bf58ba3fb80761fbcabe3b7e1a060bb45cd8ed8a/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/bf/bf58ba3fb80761fbcabe3b7e1a060bb45cd8ed8a/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/c4/c4fc930be5e6e865b3c101769e5a3aae198279a5/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/c4/c4fc930be5e6e865b3c101769e5a3aae198279a5/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/c4/c4fc930be5e6e865b3c101769e5a3aae198279a5/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/c4/c4fc930be5e6e865b3c101769e5a3aae198279a5/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/c4/c4fc930be5e6e865b3c101769e5a3aae198279a5/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/c4/c4fc930be5e6e865b3c101769e5a3aae198279a5/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/cd/cdb19a4e32a6db36f8671b4b7e7045da7f56436f/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/cd/cdb19a4e32a6db36f8671b4b7e7045da7f56436f/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/cd/cdb19a4e32a6db36f8671b4b7e7045da7f56436f/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/cd/cdb19a4e32a6db36f8671b4b7e7045da7f56436f/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/cd/cdb19a4e32a6db36f8671b4b7e7045da7f56436f/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/cd/cdb19a4e32a6db36f8671b4b7e7045da7f56436f/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/dc/dc97678c9e61c3dff0c711bc35e54dff79da76a3/meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/dc/dc97678c9e61c3dff0c711bc35e54dff79da76a3/pickled_meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/dc/dc97678c9e61c3dff0c711bc35e54dff79da76a3/request_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/dc/dc97678c9e61c3dff0c711bc35e54dff79da76a3/request_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/dc/dc97678c9e61c3dff0c711bc35e54dff79da76a3/response_body" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/.scrapy/httpcache/spider/dc/dc97678c9e61c3dff0c711bc35e54dff79da76a3/response_headers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/teste/spiders/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste/teste/textohtml.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="877364858">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cfg" value="1" />
+          <entry key="py" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="37" />
+          <entry key="py" value="829" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="866" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teste/teste/spiders/teste.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teste/teste/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teste/teste/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teste/teste/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/teste/scrapy.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teste/teste/items.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>code</find>
+      <find>middle</find>
+      <find>httpcache</find>
+      <find>HTTPCACHE_POLICY</find>
+      <find>userag</find>
+      <find>deprecate_asy</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>isAsync)</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/teste/teste/spiders/example.py" />
+        <option value="$USER_HOME$/Documents/source/brickset-scraper/scraper.py" />
+        <option value="$PROJECT_DIR$/teste/teste/spiders/teste.py" />
+        <option value="$PROJECT_DIR$/teste/teste/settings.py" />
+        <option value="$USER_HOME$/.virtualenvs/scrapyone/Lib/site-packages/shub/image/deploy.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scrapyone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapyone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapyone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapyone" type="462c0819:PsiDirectoryNode" />
+              <item name="teste" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapyone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapyone" type="462c0819:PsiDirectoryNode" />
+              <item name="teste" type="462c0819:PsiDirectoryNode" />
+              <item name=".scrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapyone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapyone" type="462c0819:PsiDirectoryNode" />
+              <item name="teste" type="462c0819:PsiDirectoryNode" />
+              <item name="teste" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acdbd9c7-de39-4ef3-8f2a-7b34c46cbdc0" name="Default Changelist" comment="" />
+      <created>1532569564533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532569564533</updated>
+    </task>
+    <task id="LOCAL-00001" summary="sdf">
+      <created>1533176662285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533176662285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" visible="true" weight="0.3409836" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.30491802" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdf" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/teste/teste/spiders/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste/teste/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/source/brickset-scraper/scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/scrapyone/Lib/site-packages/shub/image/upload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="38" column="67" lean-forward="true" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/scrapyone/Lib/site-packages/shub/image/deploy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste/teste/spiders/teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste/teste/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste/teste/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste/teste/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste/teste/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
